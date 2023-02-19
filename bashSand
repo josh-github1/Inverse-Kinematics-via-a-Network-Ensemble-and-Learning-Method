@@ -1,0 +1,14 @@
+#!/bin/bash
+
+python IK.py
+python Part2.py
+python Part2_5.py
+python Part3.py
+python Part3_5.py
+python Part3_75.py
+python Part4.py
+python Part5.py
+python Part6.py
+python Part7.py
+python Part9.py
+python Part10.py
