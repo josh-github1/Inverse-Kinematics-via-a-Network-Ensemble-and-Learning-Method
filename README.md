@@ -1,3 +1,7 @@
+## Intro
+
+The way this code is structured is very scrappy - it's not meant for anything production. I'll probably try to make this look more clean later.
+
 ## Citation
 
 Paper is published here:
