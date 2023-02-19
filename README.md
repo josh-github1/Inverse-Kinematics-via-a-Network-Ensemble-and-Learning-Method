@@ -1,4 +1,4 @@
-# Inverse-Kinematics-via-a-Network-Ensemble-and-Learning-Method
+## Citation
 
 Paper is published here:
 
