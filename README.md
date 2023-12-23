@@ -1,6 +1,6 @@
-## Intro
+## Note
 
-The way this code is structured is very scrappy - it's not meant for anything production. I'll probably try to make this look more clean later.
+The way this code is structured is very scrappy and will try to change it later.
 
 ## Citation
 
